@@ -29,3 +29,7 @@ The JSON output is an array of:
 ```
 
 `summary.md` contains totals and a concise list of every non-alive endpoint.
+
+## Live feed
+
+`feed.json` is a machine-readable snapshot with generation time, aggregate status counts, and all checked endpoints. A GitHub Actions workflow validates the code and refreshes this feed every six hours.
