@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-09T22:43:06.629Z",
+  "generatedAt": "2026-10-10T05:59:27.944Z",
   "source": "https://payanagent.com/api/v1/offers?sort=top&limit=100",
   "method": "OPTIONS probes only; no payment headers or paid calls",
   "checked": 100,
@@ -18,7 +18,7 @@
       "endpoint": "https://payanagent.com/x402/kh7dxw0kj8269e3hee74av74h989hxp9",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 78
+      "latencyMs": 157
     },
     {
       "offerId": "kh765y3g41dh3naamn63ffbc5d88qdgc",
@@ -26,7 +26,7 @@
       "endpoint": "https://payanagent.com/x402/kh765y3g41dh3naamn63ffbc5d88qdgc",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 116
+      "latencyMs": 217
     },
     {
       "offerId": "kh76ekyz513kpxgyym5r4aq1an8bd9d4",
@@ -34,7 +34,7 @@
       "endpoint": "https://payanagent.com/x402/kh76ekyz513kpxgyym5r4aq1an8bd9d4",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 141
+      "latencyMs": 192
     },
     {
       "offerId": "kh782vmva3k3wt3nzgsxxvr80588q9a3",
@@ -42,7 +42,7 @@
       "endpoint": "https://payanagent.com/x402/kh782vmva3k3wt3nzgsxxvr80588q9a3",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 187
+      "latencyMs": 205
     },
     {
       "offerId": "kh77be5e6m6m3f1gh2y5v594hd88qx5s",
@@ -50,7 +50,7 @@
       "endpoint": "https://payanagent.com/x402/kh77be5e6m6m3f1gh2y5v594hd88qx5s",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 200
+      "latencyMs": 224
     },
     {
       "offerId": "kh765by34t2w0pgjnkxnheq49d88pp2c",
@@ -58,7 +58,7 @@
       "endpoint": "https://payanagent.com/x402/kh765by34t2w0pgjnkxnheq49d88pp2c",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 260
+      "latencyMs": 208
     },
     {
       "offerId": "kh796tmg00ayqjdzsnwrjw8wn188qqp7",
@@ -66,7 +66,7 @@
       "endpoint": "https://payanagent.com/x402/kh796tmg00ayqjdzsnwrjw8wn188qqp7",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 298
+      "latencyMs": 230
     },
     {
       "offerId": "kh7ae6p2z1gga2xb0xv2gh6sth8b86ve",
@@ -74,7 +74,7 @@
       "endpoint": "https://payanagent.com/x402/kh7ae6p2z1gga2xb0xv2gh6sth8b86ve",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 345
+      "latencyMs": 265
     },
     {
       "offerId": "kh731ve801mbj2fea3vgrb3k0188bbpt",
@@ -82,7 +82,7 @@
       "endpoint": "https://payanagent.com/x402/kh731ve801mbj2fea3vgrb3k0188bbpt",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 355
+      "latencyMs": 256
     },
     {
       "offerId": "kh7b26kmtqghj6wsr9kje2jkks88bk1v",
@@ -90,7 +90,7 @@
       "endpoint": "https://payanagent.com/x402/kh7b26kmtqghj6wsr9kje2jkks88bk1v",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 363
+      "latencyMs": 276
     },
     {
       "offerId": "kh76axnav1z92cp03f1hz9f9ms8d97d5",
@@ -98,7 +98,7 @@
       "endpoint": "https://payanagent.com/x402/kh76axnav1z92cp03f1hz9f9ms8d97d5",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 320
+      "latencyMs": 177
     },
     {
       "offerId": "kh7ezjzt4etk8x1s908z7wngqn8d89hx",
@@ -106,7 +106,7 @@
       "endpoint": "https://payanagent.com/x402/kh7ezjzt4etk8x1s908z7wngqn8d89hx",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 51
+      "latencyMs": 110
     },
     {
       "offerId": "kh76qj8bfk3m8fmrfthh6gdh0d8bneea",
@@ -114,7 +114,7 @@
       "endpoint": "https://payanagent.com/x402/kh76qj8bfk3m8fmrfthh6gdh0d8bneea",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 70
+      "latencyMs": 99
     },
     {
       "offerId": "kh7bn8vmyta0z8hbjkrr29dyks8bdbnk",
@@ -122,7 +122,7 @@
       "endpoint": "https://payanagent.com/x402/kh7bn8vmyta0z8hbjkrr29dyks8bdbnk",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 52
+      "latencyMs": 110
     },
     {
       "offerId": "kh701khqcjnks4pxs3vag8qhqs8bdsj7",
@@ -130,7 +130,7 @@
       "endpoint": "https://payanagent.com/x402/kh701khqcjnks4pxs3vag8qhqs8bdsj7",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 57
+      "latencyMs": 108
     },
     {
       "offerId": "kh766fp86hfd1f08rfp46k9sxs8b7rh4",
@@ -138,7 +138,7 @@
       "endpoint": "https://payanagent.com/x402/kh766fp86hfd1f08rfp46k9sxs8b7rh4",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 63
+      "latencyMs": 103
     },
     {
       "offerId": "kh7cgwgq05y30ettmb4yz84vnx8b3gge",
@@ -146,7 +146,7 @@
       "endpoint": "https://payanagent.com/x402/kh7cgwgq05y30ettmb4yz84vnx8b3gge",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 60
+      "latencyMs": 101
     },
     {
       "offerId": "kh71zwx96wb741wdvf5qj7qasd8axt5d",
@@ -154,7 +154,7 @@
       "endpoint": "https://payanagent.com/x402/kh71zwx96wb741wdvf5qj7qasd8axt5d",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 69
+      "latencyMs": 93
     },
     {
       "offerId": "kh7f6f2h7ve965s1tdtx6w3zfd8axmp6",
@@ -162,7 +162,7 @@
       "endpoint": "https://payanagent.com/x402/kh7f6f2h7ve965s1tdtx6w3zfd8axmp6",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 165
+      "latencyMs": 108
     },
     {
       "offerId": "kh779sdahxbg6aqah7bpgqqsm98ava7s",
@@ -170,7 +170,7 @@
       "endpoint": "https://payanagent.com/x402/kh779sdahxbg6aqah7bpgqqsm98ava7s",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 56
+      "latencyMs": 120
     },
     {
       "offerId": "kh72g1yzsv6h64srw59gnwychh8arxj2",
@@ -178,7 +178,7 @@
       "endpoint": "https://payanagent.com/x402/kh72g1yzsv6h64srw59gnwychh8arxj2",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 79
+      "latencyMs": 104
     },
     {
       "offerId": "kh70d329et4mswkf8t7694j6cx8ass4y",
@@ -186,7 +186,7 @@
       "endpoint": "https://payanagent.com/x402/kh70d329et4mswkf8t7694j6cx8ass4y",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 75
+      "latencyMs": 159
     },
     {
       "offerId": "kh77aybk4q5d1yf2fd54fkmapd8aqxz6",
@@ -194,7 +194,7 @@
       "endpoint": "https://payanagent.com/x402/kh77aybk4q5d1yf2fd54fkmapd8aqxz6",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 54
+      "latencyMs": 104
     },
     {
       "offerId": "kh71792ee7x7w59dtrgbq7zz898an9cn",
@@ -202,7 +202,7 @@
       "endpoint": "https://payanagent.com/x402/kh71792ee7x7w59dtrgbq7zz898an9cn",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 68
+      "latencyMs": 130
     },
     {
       "offerId": "kh7f10819zygk3xrt4t4b9pbth8an0en",
@@ -210,7 +210,7 @@
       "endpoint": "https://payanagent.com/x402/kh7f10819zygk3xrt4t4b9pbth8an0en",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 69
+      "latencyMs": 118
     },
     {
       "offerId": "kh72x7x14qytn8vhc0qc0mdex98amtcy",
@@ -218,7 +218,7 @@
       "endpoint": "https://payanagent.com/x402/kh72x7x14qytn8vhc0qc0mdex98amtcy",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 55
+      "latencyMs": 107
     },
     {
       "offerId": "kh77wrwy3cpj0ce9aagpj79kb98akjke",
@@ -226,7 +226,7 @@
       "endpoint": "https://payanagent.com/x402/kh77wrwy3cpj0ce9aagpj79kb98akjke",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 73
+      "latencyMs": 103
     },
     {
       "offerId": "kh737f5q658r7gq9t3x0fyk1nh8ac3hv",
@@ -234,7 +234,7 @@
       "endpoint": "https://payanagent.com/x402/kh737f5q658r7gq9t3x0fyk1nh8ac3hv",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 71
+      "latencyMs": 100
     },
     {
       "offerId": "kh7a15qpjhg19hjz5dm541jb4d8a943a",
@@ -242,7 +242,7 @@
       "endpoint": "https://payanagent.com/x402/kh7a15qpjhg19hjz5dm541jb4d8a943a",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 64
+      "latencyMs": 106
     },
     {
       "offerId": "kh76qm2tf3ea7hvkg2z3hcb85n8a2qcb",
@@ -250,7 +250,7 @@
       "endpoint": "https://payanagent.com/x402/kh76qm2tf3ea7hvkg2z3hcb85n8a2qcb",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 78
+      "latencyMs": 90
     },
     {
       "offerId": "kh7818nysb5cnd524anp0re2fx89gde9",
@@ -258,7 +258,7 @@
       "endpoint": "https://payanagent.com/x402/kh7818nysb5cnd524anp0re2fx89gde9",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 58
+      "latencyMs": 103
     },
     {
       "offerId": "kh73bx6zsz8r3ypy4z2evwttb58dn4se",
@@ -266,7 +266,7 @@
       "endpoint": "https://payanagent.com/x402/kh73bx6zsz8r3ypy4z2evwttb58dn4se",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 61
+      "latencyMs": 97
     },
     {
       "offerId": "kh730pmxed1p3xfn12j55qa6gx8dns3q",
@@ -274,7 +274,7 @@
       "endpoint": "https://payanagent.com/x402/kh730pmxed1p3xfn12j55qa6gx8dns3q",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 86
+      "latencyMs": 116
     },
     {
       "offerId": "kh7ana3gynpawtfhjym5ape3dn8brfg6",
@@ -282,7 +282,7 @@
       "endpoint": "https://payanagent.com/x402/kh7ana3gynpawtfhjym5ape3dn8brfg6",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 63
+      "latencyMs": 98
     },
     {
       "offerId": "kh7fe77q59v3ah76e7xtmnsqk58atbbk",
@@ -290,7 +290,7 @@
       "endpoint": "https://payanagent.com/x402/kh7fe77q59v3ah76e7xtmnsqk58atbbk",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 52
+      "latencyMs": 108
     },
     {
       "offerId": "kh70bpv2karv47201w180qae4n8dg3hs",
@@ -298,7 +298,7 @@
       "endpoint": "https://payanagent.com/x402/kh70bpv2karv47201w180qae4n8dg3hs",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 110
+      "latencyMs": 123
     },
     {
       "offerId": "kh7bsyq2g06c77pyvb90qcbnrs8bfxrn",
@@ -306,7 +306,7 @@
       "endpoint": "https://payanagent.com/x402/kh7bsyq2g06c77pyvb90qcbnrs8bfxrn",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 91
+      "latencyMs": 152
     },
     {
       "offerId": "kh7bgthx0ernd28pd6dtz9rvgx8d84pe",
@@ -314,7 +314,7 @@
       "endpoint": "https://payanagent.com/x402/kh7bgthx0ernd28pd6dtz9rvgx8d84pe",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 71
+      "latencyMs": 131
     },
     {
       "offerId": "kh757k67dvgy4te6ppz46gsp2s8bayhy",
@@ -322,7 +322,7 @@
       "endpoint": "https://payanagent.com/x402/kh757k67dvgy4te6ppz46gsp2s8bayhy",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 70
+      "latencyMs": 99
     },
     {
       "offerId": "kh79cwp7xkatef65z13vecfygd8b9kj5",
@@ -330,7 +330,7 @@
       "endpoint": "https://payanagent.com/x402/kh79cwp7xkatef65z13vecfygd8b9kj5",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 70
+      "latencyMs": 119
     },
     {
       "offerId": "kh719qrxb8n0mtgvdh4mt0gbzn8ap561",
@@ -338,7 +338,7 @@
       "endpoint": "https://payanagent.com/x402/kh719qrxb8n0mtgvdh4mt0gbzn8ap561",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 65
+      "latencyMs": 111
     },
     {
       "offerId": "kh7f0p5h48bh1as82xrfvz53z18dgggy",
@@ -346,7 +346,7 @@
       "endpoint": "https://payanagent.com/x402/kh7f0p5h48bh1as82xrfvz53z18dgggy",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 79
+      "latencyMs": 111
     },
     {
       "offerId": "kh7apnxny48ms0arzz1gjqcsd98ce2n1",
@@ -354,7 +354,7 @@
       "endpoint": "https://payanagent.com/x402/kh7apnxny48ms0arzz1gjqcsd98ce2n1",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 79
+      "latencyMs": 104
     },
     {
       "offerId": "kh7fq3qxt8pzsqf6rt8wfw3t2s8axjj9",
@@ -362,7 +362,7 @@
       "endpoint": "https://payanagent.com/x402/kh7fq3qxt8pzsqf6rt8wfw3t2s8axjj9",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 73
+      "latencyMs": 107
     },
     {
       "offerId": "kh71csq3gp8wrz5qk180400dkn8ce2fg",
@@ -370,7 +370,7 @@
       "endpoint": "https://payanagent.com/x402/kh71csq3gp8wrz5qk180400dkn8ce2fg",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 72
+      "latencyMs": 98
     },
     {
       "offerId": "kh7539ya7xa4p0nmgjtsrx279h8aj58q",
@@ -378,7 +378,7 @@
       "endpoint": "https://payanagent.com/x402/kh7539ya7xa4p0nmgjtsrx279h8aj58q",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 81
+      "latencyMs": 96
     },
     {
       "offerId": "kh7bb9mdrnn5yz04esz9qnbda18ct7qe",
@@ -386,7 +386,7 @@
       "endpoint": "https://payanagent.com/x402/kh7bb9mdrnn5yz04esz9qnbda18ct7qe",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 65
+      "latencyMs": 105
     },
     {
       "offerId": "kh75swr747b6mwrhed8rwp6dv58apw64",
@@ -394,7 +394,7 @@
       "endpoint": "https://payanagent.com/x402/kh75swr747b6mwrhed8rwp6dv58apw64",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 668
+      "latencyMs": 92
     },
     {
       "offerId": "kh7d5ngh0nj9wx51qqzmxx4ekh8aqrkt",
@@ -402,7 +402,7 @@
       "endpoint": "https://payanagent.com/x402/kh7d5ngh0nj9wx51qqzmxx4ekh8aqrkt",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 67
+      "latencyMs": 111
     },
     {
       "offerId": "kh7bkf8xq942yggwn4he1vtt6s8apc9w",
@@ -410,7 +410,7 @@
       "endpoint": "https://payanagent.com/x402/kh7bkf8xq942yggwn4he1vtt6s8apc9w",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 78
+      "latencyMs": 93
     },
     {
       "offerId": "kh7ckg008a7xeh0eghsy3asbj18aq9qg",
@@ -418,7 +418,7 @@
       "endpoint": "https://payanagent.com/x402/kh7ckg008a7xeh0eghsy3asbj18aq9qg",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 68
+      "latencyMs": 104
     },
     {
       "offerId": "kh790vf6pyqwrgs8xgng5xz1a18aq9mh",
@@ -426,7 +426,7 @@
       "endpoint": "https://payanagent.com/x402/kh790vf6pyqwrgs8xgng5xz1a18aq9mh",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 64
+      "latencyMs": 95
     },
     {
       "offerId": "kh7fxd0skvejzqy61f5atawdkx8aqp12",
@@ -434,7 +434,7 @@
       "endpoint": "https://payanagent.com/x402/kh7fxd0skvejzqy61f5atawdkx8aqp12",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 89
+      "latencyMs": 106
     },
     {
       "offerId": "kh79q3nhdqcjhbrmggfadx5wsn8aqd89",
@@ -442,7 +442,7 @@
       "endpoint": "https://payanagent.com/x402/kh79q3nhdqcjhbrmggfadx5wsn8aqd89",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 68
+      "latencyMs": 89
     },
     {
       "offerId": "kh77w64zt8zw7swywr6cdwfyyh8ap3nf",
@@ -450,7 +450,7 @@
       "endpoint": "https://payanagent.com/x402/kh77w64zt8zw7swywr6cdwfyyh8ap3nf",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 110
+      "latencyMs": 101
     },
     {
       "offerId": "kh7br3n89ssbfph4ajqnyxf9t18apq16",
@@ -458,7 +458,7 @@
       "endpoint": "https://payanagent.com/x402/kh7br3n89ssbfph4ajqnyxf9t18apq16",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 79
+      "latencyMs": 90
     },
     {
       "offerId": "kh76jeas4yc9cz95f51525hann8dbynn",
@@ -466,7 +466,7 @@
       "endpoint": "https://payanagent.com/x402/kh76jeas4yc9cz95f51525hann8dbynn",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 81
+      "latencyMs": 91
     },
     {
       "offerId": "kh7bfj8ff0xgesyj7cemjz2p518fynqm",
@@ -474,7 +474,7 @@
       "endpoint": "https://payanagent.com/x402/kh7bfj8ff0xgesyj7cemjz2p518fynqm",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 89
+      "latencyMs": 108
     },
     {
       "offerId": "kh7cdx3hb1wr702ba0aapgkjjx8fzqfc",
@@ -482,7 +482,7 @@
       "endpoint": "https://payanagent.com/x402/kh7cdx3hb1wr702ba0aapgkjjx8fzqfc",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 83
+      "latencyMs": 94
     },
     {
       "offerId": "kh70m67k7d02s23xckkvnd3r7n8fwswp",
@@ -490,7 +490,7 @@
       "endpoint": "https://payanagent.com/x402/kh70m67k7d02s23xckkvnd3r7n8fwswp",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 82
+      "latencyMs": 99
     },
     {
       "offerId": "kh78yvqa0n98ge5hxay7yq80pn8fw7na",
@@ -498,7 +498,7 @@
       "endpoint": "https://payanagent.com/x402/kh78yvqa0n98ge5hxay7yq80pn8fw7na",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 48
+      "latencyMs": 91
     },
     {
       "offerId": "kh76wftxpqdz75my7e1kdhm4qs8fxxcm",
@@ -506,7 +506,7 @@
       "endpoint": "https://payanagent.com/x402/kh76wftxpqdz75my7e1kdhm4qs8fxxcm",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 147
+      "latencyMs": 101
     },
     {
       "offerId": "kh7cnbzh8hf4kbaq0ar2hbj1vn8fwdvm",
@@ -514,7 +514,7 @@
       "endpoint": "https://payanagent.com/x402/kh7cnbzh8hf4kbaq0ar2hbj1vn8fwdvm",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 50
+      "latencyMs": 109
     },
     {
       "offerId": "kh787ytcvxd0mg7hg59mp8df0h8fwt9z",
@@ -522,7 +522,7 @@
       "endpoint": "https://payanagent.com/x402/kh787ytcvxd0mg7hg59mp8df0h8fwt9z",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 78
+      "latencyMs": 90
     },
     {
       "offerId": "kh7fgcr2ms3ztxn94apv5f32n18fxdde",
@@ -530,7 +530,7 @@
       "endpoint": "https://payanagent.com/x402/kh7fgcr2ms3ztxn94apv5f32n18fxdde",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 50
+      "latencyMs": 122
     },
     {
       "offerId": "kh78atc50yh3hr3yqjkmkj43xx8fxm7j",
@@ -538,7 +538,7 @@
       "endpoint": "https://payanagent.com/x402/kh78atc50yh3hr3yqjkmkj43xx8fxm7j",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 52
+      "latencyMs": 106
     },
     {
       "offerId": "kh7evy95hr9b4yczyfhwhx5fas8fwh1n",
@@ -546,7 +546,7 @@
       "endpoint": "https://payanagent.com/x402/kh7evy95hr9b4yczyfhwhx5fas8fwh1n",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 63
+      "latencyMs": 108
     },
     {
       "offerId": "kh760hhne03pc2e3p0ysa99ptd8fwv0j",
@@ -554,7 +554,7 @@
       "endpoint": "https://payanagent.com/x402/kh760hhne03pc2e3p0ysa99ptd8fwv0j",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 80
+      "latencyMs": 115
     },
     {
       "offerId": "kh7a0z40yc70sxp7f9adkst4an8fxhfa",
@@ -562,7 +562,7 @@
       "endpoint": "https://payanagent.com/x402/kh7a0z40yc70sxp7f9adkst4an8fxhfa",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 63
+      "latencyMs": 125
     },
     {
       "offerId": "kh7c6f06m60j2ph8eenpabnm558fx41g",
@@ -570,7 +570,7 @@
       "endpoint": "https://payanagent.com/x402/kh7c6f06m60j2ph8eenpabnm558fx41g",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 51
+      "latencyMs": 109
     },
     {
       "offerId": "kh7114sy6k8e3mbtbk70rcyse58fxz68",
@@ -578,7 +578,7 @@
       "endpoint": "https://payanagent.com/x402/kh7114sy6k8e3mbtbk70rcyse58fxz68",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 691
+      "latencyMs": 105
     },
     {
       "offerId": "kh75rs9kmhxt174qn2b76w3b4x8fxmfn",
@@ -586,7 +586,7 @@
       "endpoint": "https://payanagent.com/x402/kh75rs9kmhxt174qn2b76w3b4x8fxmfn",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 73
+      "latencyMs": 108
     },
     {
       "offerId": "kh76n9ckgpm2wvmpt9z35eks058fxvzx",
@@ -594,7 +594,7 @@
       "endpoint": "https://payanagent.com/x402/kh76n9ckgpm2wvmpt9z35eks058fxvzx",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 79
+      "latencyMs": 108
     },
     {
       "offerId": "kh71wdb20dyexzf57fg3106xq18fx73f",
@@ -602,7 +602,7 @@
       "endpoint": "https://payanagent.com/x402/kh71wdb20dyexzf57fg3106xq18fx73f",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 66
+      "latencyMs": 108
     },
     {
       "offerId": "kh789ef0ebwrxxrwf72pfexmkd8fw41a",
@@ -610,7 +610,7 @@
       "endpoint": "https://payanagent.com/x402/kh789ef0ebwrxxrwf72pfexmkd8fw41a",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 230
+      "latencyMs": 128
     },
     {
       "offerId": "kh79v0bssht10z3dws2b6vqsjn8fvr7g",
@@ -618,7 +618,7 @@
       "endpoint": "https://payanagent.com/x402/kh79v0bssht10z3dws2b6vqsjn8fvr7g",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 58
+      "latencyMs": 123
     },
     {
       "offerId": "kh78hf2vggbd2gp7my4f6wwv6x8fvcbx",
@@ -626,7 +626,7 @@
       "endpoint": "https://payanagent.com/x402/kh78hf2vggbd2gp7my4f6wwv6x8fvcbx",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 66
+      "latencyMs": 94
     },
     {
       "offerId": "kh73k51jnr70j2rmckw0cvwjf98fvxxb",
@@ -634,7 +634,7 @@
       "endpoint": "https://payanagent.com/x402/kh73k51jnr70j2rmckw0cvwjf98fvxxb",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 64
+      "latencyMs": 90
     },
     {
       "offerId": "kh7aagzs5adf52qm3f8fnynpmh8fv1b0",
@@ -642,7 +642,7 @@
       "endpoint": "https://payanagent.com/x402/kh7aagzs5adf52qm3f8fnynpmh8fv1b0",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 51
+      "latencyMs": 110
     },
     {
       "offerId": "kh73dnppexwt9zr1a6fvvqjzf58ft45f",
@@ -650,7 +650,7 @@
       "endpoint": "https://payanagent.com/x402/kh73dnppexwt9zr1a6fvvqjzf58ft45f",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 64
+      "latencyMs": 110
     },
     {
       "offerId": "kh785dbx9xmqpva92vvtnpezf58fvf7g",
@@ -658,7 +658,7 @@
       "endpoint": "https://payanagent.com/x402/kh785dbx9xmqpva92vvtnpezf58fvf7g",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 71
+      "latencyMs": 123
     },
     {
       "offerId": "kh7f0ppyg80qf3mksxpk17pyt98ftd1y",
@@ -666,7 +666,7 @@
       "endpoint": "https://payanagent.com/x402/kh7f0ppyg80qf3mksxpk17pyt98ftd1y",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 61
+      "latencyMs": 133
     },
     {
       "offerId": "kh7936n8e8s4fsw5xfpypcf3ys8ftbn3",
@@ -674,7 +674,7 @@
       "endpoint": "https://payanagent.com/x402/kh7936n8e8s4fsw5xfpypcf3ys8ftbn3",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 63
+      "latencyMs": 104
     },
     {
       "offerId": "kh7613d35vebtmjv7b02p3348h8ft566",
@@ -682,7 +682,7 @@
       "endpoint": "https://payanagent.com/x402/kh7613d35vebtmjv7b02p3348h8ft566",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 59
+      "latencyMs": 102
     },
     {
       "offerId": "kh7dd488a7f7r49nk738qcsfen8fvp40",
@@ -690,7 +690,7 @@
       "endpoint": "https://payanagent.com/x402/kh7dd488a7f7r49nk738qcsfen8fvp40",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 61
+      "latencyMs": 110
     },
     {
       "offerId": "kh71mk531e993se5vgy43ss7ch8fvrwq",
@@ -698,7 +698,7 @@
       "endpoint": "https://payanagent.com/x402/kh71mk531e993se5vgy43ss7ch8fvrwq",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 558
+      "latencyMs": 102
     },
     {
       "offerId": "kh7dx4fwgrcsqervs13hv19g0s8fv68r",
@@ -706,7 +706,7 @@
       "endpoint": "https://payanagent.com/x402/kh7dx4fwgrcsqervs13hv19g0s8fv68r",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 64
+      "latencyMs": 104
     },
     {
       "offerId": "kh78d9n0beek581b588bemxpr98fvd28",
@@ -714,7 +714,7 @@
       "endpoint": "https://payanagent.com/x402/kh78d9n0beek581b588bemxpr98fvd28",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 68
+      "latencyMs": 107
     },
     {
       "offerId": "kh7e07s0z77m52c7jggyx1p0zx8ftp2j",
@@ -722,7 +722,7 @@
       "endpoint": "https://payanagent.com/x402/kh7e07s0z77m52c7jggyx1p0zx8ftp2j",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 67
+      "latencyMs": 117
     },
     {
       "offerId": "kh753nwxh6yrsy9pmsq503e8gd8fvebk",
@@ -730,7 +730,7 @@
       "endpoint": "https://payanagent.com/x402/kh753nwxh6yrsy9pmsq503e8gd8fvebk",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 84
+      "latencyMs": 88
     },
     {
       "offerId": "kh70czmdvfqsd9kkh5pwrr8px18fvrm7",
@@ -738,7 +738,7 @@
       "endpoint": "https://payanagent.com/x402/kh70czmdvfqsd9kkh5pwrr8px18fvrm7",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 513
+      "latencyMs": 91
     },
     {
       "offerId": "kh75r7z33jwcgrrnm14fw0mwc18fv3c3",
@@ -746,7 +746,7 @@
       "endpoint": "https://payanagent.com/x402/kh75r7z33jwcgrrnm14fw0mwc18fv3c3",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 68
+      "latencyMs": 118
     },
     {
       "offerId": "kh719bmhqfn6e1aanhq0knas8s8ftz6a",
@@ -754,7 +754,7 @@
       "endpoint": "https://payanagent.com/x402/kh719bmhqfn6e1aanhq0knas8s8ftz6a",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 66
+      "latencyMs": 128
     },
     {
       "offerId": "kh71yykt3gtgt24mb151594gss8fvymg",
@@ -762,7 +762,7 @@
       "endpoint": "https://payanagent.com/x402/kh71yykt3gtgt24mb151594gss8fvymg",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 63
+      "latencyMs": 139
     },
     {
       "offerId": "kh788yq0w8xsgykr2pp95439nn8fvdbe",
@@ -770,7 +770,7 @@
       "endpoint": "https://payanagent.com/x402/kh788yq0w8xsgykr2pp95439nn8fvdbe",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 70
+      "latencyMs": 102
     },
     {
       "offerId": "kh7ewdjsqse85vn71mvfj1f58h8ftkwk",
@@ -778,7 +778,7 @@
       "endpoint": "https://payanagent.com/x402/kh7ewdjsqse85vn71mvfj1f58h8ftkwk",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 69
+      "latencyMs": 108
     },
     {
       "offerId": "kh7eb42h1vyn1karakcnp4fwsx8fvrbg",
@@ -786,7 +786,7 @@
       "endpoint": "https://payanagent.com/x402/kh7eb42h1vyn1karakcnp4fwsx8fvrbg",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 69
+      "latencyMs": 114
     },
     {
       "offerId": "kh71nrq3jhn31s342rq5rdv1xx8fvcw1",
@@ -794,7 +794,7 @@
       "endpoint": "https://payanagent.com/x402/kh71nrq3jhn31s342rq5rdv1xx8fvcw1",
       "status": "4xx",
       "httpCode": 403,
-      "latencyMs": 52
+      "latencyMs": 40
     },
     {
       "offerId": "kh7119jke605bevr63mj8z58q18fvmpw",
@@ -802,7 +802,7 @@
       "endpoint": "https://payanagent.com/x402/kh7119jke605bevr63mj8z58q18fvmpw",
       "status": "alive",
       "httpCode": 204,
-      "latencyMs": 83
+      "latencyMs": 92
     },
     {
       "offerId": "kh7akt1nxq56r5r25nhvv5phdh8ftpff",
@@ -810,7 +810,7 @@
       "endpoint": "https://payanagent.com/x402/kh7akt1nxq56r5r25nhvv5phdh8ftpff",
       "status": "4xx",
       "httpCode": 403,
-      "latencyMs": 34
+      "latencyMs": 27
     }
   ]
 }
